@@ -1,0 +1,54 @@
+.color-title {
+    text-align: center;
+    font-size: 2vw;
+}
+
+.colors-container {
+    display: flex;
+    justify-content: center;
+}
+
+.colors-alignment {
+    display: grid;
+    grid-template-columns: repeat(6, 7vw);
+    grid-template-rows: repeat(4, 3vw);
+}
+
+.colors-alignment .black, .teal, .blue, .navy, .lime, .white, .purple, .yellow, .olive, .red, .gray, .green, .fuchsia {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 1vw;
+}
+
+.colors-alignment .colores {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.words-title {
+    text-align: center;
+    font-size: 2vw;
+}
+
+.colors-block {
+    display: flex;
+    justify-content: center;
+}
+
+.colors {
+    display: grid;
+    grid-template-columns: repeat(8, 6vw);
+    grid-template-rows: repeat(2, auto);
+}
+
+.colors p {
+    font-size: 2vw;
+    text-align: center;
+}
+
+
+p {
+    margin: 0 0;
+}

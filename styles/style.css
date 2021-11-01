@@ -1,0 +1,7 @@
+@import url(/styles/containers-colors.css);
+@import url(/styles/word-colors.css);
+@import url(/styles/body.css);
+
+html {
+    background-image: url(/assets/wood-wallpaper.jpeg);
+}

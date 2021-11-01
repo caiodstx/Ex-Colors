@@ -1,0 +1,58 @@
+.colores {
+    grid-column-start: span 6;
+    background-color: green;
+    font-size: 1vw;
+}
+
+.black {
+    background-color: black;
+}
+
+.teal {
+    background-color: teal;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.navy {
+    background-color: navy;
+}
+
+.lime {
+    background-color: lime;
+}
+
+.white {
+    background-color: white;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.olive {
+    background-color: olive;
+}
+
+.red {
+    background-color: red;
+}
+
+.gray {
+    background-color: gray;
+}
+
+.fuchsia {
+    background-color: fuchsia;
+}
+
+.green {
+    grid-column-end: span 3;
+    background-color: green;
+}
